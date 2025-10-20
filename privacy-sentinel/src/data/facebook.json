@@ -1,0 +1,267 @@
+{
+  "platform": "Facebook",
+  "color": "#1877F2",
+  "guides": [
+    {
+      "id": "fb-1",
+      "title": "Use Privacy Checkup",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Review and update your privacy settings using Facebook's guided tool.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Facebook Settings",
+          "instruction": "Tap the menu icon (three lines) and select 'Settings & Privacy'.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Start Privacy Checkup",
+          "instruction": "Tap on 'Privacy Checkup' to begin the guided review process.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Review Each Section",
+          "instruction": "Go through each section: Who can see what you share, How to keep your account secure, and more.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Apply Changes",
+          "instruction": "Review and confirm your privacy preferences for each category.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-2",
+      "title": "Control Who Can Find You",
+      "priority": "High Priority",
+      "category": "Discovery & Visibility",
+      "description": "Manage who can find your Facebook profile using your email or phone number.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Go to Settings & Privacy > Settings > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Control Search Settings",
+          "instruction": "Under 'How people find and contact you', adjust who can look you up using your email or phone.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Limit Search Engine Indexing",
+          "instruction": "Toggle off 'Do you want search engines outside of Facebook to link to your profile?'",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-3",
+      "title": "Block Someone",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Block specific users to prevent them from seeing your profile or contacting you.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Visit Their Profile",
+          "instruction": "Go to the profile of the person you want to block.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Open Options Menu",
+          "instruction": "Tap the three dots on their profile.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Select Block",
+          "instruction": "Tap 'Block' and confirm. You can also manage blocked users in Settings > Blocking.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-4",
+      "title": "Manage Device Permissions",
+      "priority": "Important",
+      "category": "Personal Info",
+      "description": "Control what device permissions Facebook has access to.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open App Permissions",
+          "instruction": "On mobile, go to your device Settings > Apps > Facebook.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Review Permissions",
+          "instruction": "Check permissions like Camera, Microphone, Location, Photos, and Contacts.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Disable Unnecessary Access",
+          "instruction": "Turn off any permissions you don't want Facebook to have.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-5",
+      "title": "Change Your Password",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Update your Facebook password to maintain account security.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Security Settings",
+          "instruction": "Go to Settings & Privacy > Settings > Password and security.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Change Password",
+          "instruction": "Tap on 'Change password'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Enter New Password",
+          "instruction": "Enter your current password, then your new password twice. Use a strong, unique password.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Save Changes",
+          "instruction": "Tap 'Save changes' to update your password.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-6",
+      "title": "Control Post Visibility",
+      "priority": "High Priority",
+      "category": "Posts & Sharing",
+      "description": "Manage who can see your Facebook posts and past content.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Set Default Audience",
+          "instruction": "Go to Settings > Privacy > Who can see your future posts.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Choose Audience",
+          "instruction": "Select 'Public', 'Friends', 'Friends except...', 'Specific friends', or 'Only me'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Limit Past Posts",
+          "instruction": "Use 'Limit past posts' to change all public posts to Friends only.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-7",
+      "title": "Manage Notification Settings",
+      "priority": "Important",
+      "category": "Personal Info",
+      "description": "Control what notifications you receive from Facebook.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Notification Settings",
+          "instruction": "Go to Settings & Privacy > Settings > Notifications.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Customize by Type",
+          "instruction": "Choose which notifications you want to receive for each category (Posts, Comments, Messages, etc.).",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Adjust Push Notifications",
+          "instruction": "Control push notifications on mobile by tapping 'Push' and adjusting settings.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-8",
+      "title": "Control Ad Preferences",
+      "priority": "High Priority",
+      "category": "Personal Info",
+      "description": "Manage how Facebook uses your data for advertising.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Ad Settings",
+          "instruction": "Navigate to Settings & Privacy > Settings > Ad preferences.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Review Ad Topics",
+          "instruction": "See topics Facebook thinks you're interested in and hide irrelevant ones.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Manage Advertisers",
+          "instruction": "View and hide ads from specific advertisers who have your contact info.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Adjust Ad Settings",
+          "instruction": "Turn off 'Ads based on data from partners' and 'Ads based on your activity' if desired.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "fb-9",
+      "title": "Lock Your Profile",
+      "priority": "Important",
+      "category": "Account Security",
+      "description": "Lock your profile to add an extra layer of privacy (available in some regions).",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Go to Your Profile",
+          "instruction": "Tap on your profile picture to visit your profile page.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Find Lock Profile Option",
+          "instruction": "Tap the three dots menu and look for 'Lock profile' option.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Enable Profile Lock",
+          "instruction": "Tap 'Lock your profile' and confirm. Non-friends won't be able to see your photos or posts on your timeline.",
+          "image": "step3.png"
+        }
+      ]
+    }
+  ]
+}

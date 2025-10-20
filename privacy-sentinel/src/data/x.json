@@ -1,0 +1,192 @@
+{
+  "platform": "X (Twitter)",
+  "color": "#000000",
+  "guides": [
+    {
+      "id": "x-1",
+      "title": "Control Audience and Tagging",
+      "priority": "High Priority",
+      "category": "Posts & Sharing",
+      "description": "Manage who can see your posts and who can tag you in photos.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Tap your profile icon, then 'Settings and privacy'.",
+          "image": "step1.svg"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Navigate to Privacy",
+          "instruction": "Tap 'Privacy and safety' > 'Audience and tagging'.",
+          "image": "step2.svg"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Protect Your Posts",
+          "instruction": "Toggle on 'Protect your posts' to make your account private (only approved followers see your posts).",
+          "image": "step3.svg"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Control Photo Tagging",
+          "instruction": "Under 'Photo tagging', choose who can tag you: 'Everyone' or 'Only people you follow'.",
+          "image": "step4.svg"
+        }
+      ]
+    },
+    {
+      "id": "x-2",
+      "title": "Manage Location Sharing",
+      "priority": "Critical",
+      "category": "Personal Info",
+      "description": "Control location information attached to your posts.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Access Location Settings",
+          "instruction": "Go to Settings and privacy > Privacy and safety.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Disable Location Information",
+          "instruction": "Tap 'Location information' and toggle off 'Add location information to your posts'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Remove Location History",
+          "instruction": "Tap 'Delete all location information' to remove location data from past posts.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "x-3",
+      "title": "Control Message Settings",
+      "priority": "High Priority",
+      "category": "Messaging",
+      "description": "Manage who can send you direct messages on X.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Direct Messages Settings",
+          "instruction": "Go to Settings and privacy > Privacy and safety > Direct Messages.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Control Message Requests",
+          "instruction": "Toggle 'Allow message requests from everyone' on or off based on your preference.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Filter Message Requests",
+          "instruction": "Enable 'Filter low-quality messages' to reduce spam in your message requests.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Manage Read Receipts",
+          "instruction": "Toggle 'Show read receipts' off if you don't want others to know when you've read their messages.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "x-4",
+      "title": "Configure Privacy and Safety",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Review and configure comprehensive privacy and safety settings.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Access Safety Settings",
+          "instruction": "Navigate to Settings and privacy > Privacy and safety.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Manage Content Preferences",
+          "instruction": "Under 'Your posts', control who can reply to your posts and mention you.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Review Muted and Blocked Accounts",
+          "instruction": "Check 'Muted' and 'Blocked accounts' lists to manage unwanted interactions.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Configure Spaces Settings",
+          "instruction": "Control who can see your Spaces listening activity in the Spaces section.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "x-5",
+      "title": "Enable Two-Factor Authentication",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Add an extra security layer to your X account.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Security Settings",
+          "instruction": "Go to Settings and privacy > Security and account access > Security.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Two-Factor Authentication",
+          "instruction": "Tap 'Two-factor authentication'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Choose Method",
+          "instruction": "Select your preferred method: 'Authentication app' (recommended), 'Text message', or 'Security key'.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Complete Setup",
+          "instruction": "Follow the on-screen instructions to complete the 2FA setup for your chosen method.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "x-6",
+      "title": "Manage Discoverability",
+      "priority": "High Priority",
+      "category": "Discovery & Visibility",
+      "description": "Control how people can find and discover your X account.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Discoverability Settings",
+          "instruction": "Navigate to Settings and privacy > Privacy and safety > Discoverability and contacts.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Control Email/Phone Lookup",
+          "instruction": "Toggle off 'Let people who have your email address find you on X' and same for phone number.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Manage Contact Syncing",
+          "instruction": "Review 'Sync address book contacts' and disable if you don't want X to access your contacts.",
+          "image": "step3.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "platform": "Instagram",
+  "color": "linear-gradient(45deg, #E1306C, #833AB4)",
+  "guides": [
+    {
+      "id": "ig-1",
+      "title": "Hide Activity Status",
+      "priority": "High Priority",
+      "category": "Personal Info",
+      "description": "Control who can see when you were last active on Instagram.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Instagram Settings",
+          "instruction": "Tap your profile icon, then the menu icon (three lines) in the top-right corner.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Navigate to Privacy",
+          "instruction": "Tap 'Settings and privacy', then select 'Messages and story replies'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Disable Activity Status",
+          "instruction": "Toggle off 'Show activity status' to hide when you're active.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-2",
+      "title": "Manage Story Privacy",
+      "priority": "Important",
+      "category": "Posts & Sharing",
+      "description": "Control who can see your Instagram stories.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Go to Privacy Settings",
+          "instruction": "Open Settings > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Story",
+          "instruction": "Tap on 'Story' under 'Interactions'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Hide Story From",
+          "instruction": "Select people you want to hide your story from, or create a Close Friends list.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-3",
+      "title": "Control Comments on Posts",
+      "priority": "Important",
+      "category": "Posts & Sharing",
+      "description": "Manage who can comment on your Instagram posts.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Access Privacy Settings",
+          "instruction": "Navigate to Settings > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Comments",
+          "instruction": "Tap on 'Comments' under 'Interactions'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Block Comments From",
+          "instruction": "Choose to block comments from everyone, people you don't follow, or specific people.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Enable Manual Filter",
+          "instruction": "Turn on manual filter to review comments before they appear on your posts.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-4",
+      "title": "Restrict or Block Accounts",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Restrict or block accounts without them knowing.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Visit the Account",
+          "instruction": "Go to the profile of the account you want to restrict or block.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Open Options Menu",
+          "instruction": "Tap the three dots in the top-right corner.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Choose Action",
+          "instruction": "Select 'Restrict' to limit interaction without blocking, or 'Block' to completely block the account.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-5",
+      "title": "Manage Tagged Photos",
+      "priority": "Important",
+      "category": "Posts & Sharing",
+      "description": "Control who can tag you in photos and approve tags before they appear.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Tag Settings",
+          "instruction": "Go to Settings > Privacy > Tags.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Enable Tag Approval",
+          "instruction": "Toggle on 'Manually approve tags' so you can review tags before they appear on your profile.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Remove Existing Tags",
+          "instruction": "Go to your profile, tap the tagged icon, and remove any unwanted tags.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-6",
+      "title": "Hide Like and View Counts",
+      "priority": "Important",
+      "category": "Posts & Sharing",
+      "description": "Hide like and view counts on your posts and others' posts.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Access Privacy Settings",
+          "instruction": "Navigate to Settings > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Posts",
+          "instruction": "Tap on 'Posts' under 'Interactions'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Hide Like Counts",
+          "instruction": "Toggle on 'Hide like and view counts' to hide them on your posts and others' posts.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-7",
+      "title": "Control Message Requests",
+      "priority": "High Priority",
+      "category": "Messaging",
+      "description": "Manage who can send you direct messages on Instagram.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Message Settings",
+          "instruction": "Go to Settings > Messages and story replies.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Configure Message Controls",
+          "instruction": "Choose who can message you: Everyone, People you follow, or No one.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Review Message Requests",
+          "instruction": "Check your message requests folder regularly and delete unwanted messages.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-8",
+      "title": "Review Login Activity",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Check where your account is logged in and log out suspicious sessions.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Security Settings",
+          "instruction": "Navigate to Settings > Account Center > Password and security.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "View Login Activity",
+          "instruction": "Tap on 'Where you're logged in' to see all active sessions.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Log Out Suspicious Sessions",
+          "instruction": "Review the list and log out of any unrecognized devices or locations.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-9",
+      "title": "Enable Two-Factor Authentication",
+      "priority": "Critical",
+      "category": "Account Security",
+      "description": "Add an extra layer of security to your Instagram account.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Access Security Settings",
+          "instruction": "Go to Settings > Account Center > Password and security.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Two-Factor Authentication",
+          "instruction": "Tap on 'Two-factor authentication' and select your account.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Choose Authentication Method",
+          "instruction": "Select either 'Authentication app' (recommended) or 'Text message (SMS)'.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Complete Setup",
+          "instruction": "Follow the prompts to complete the two-factor authentication setup.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "ig-10",
+      "title": "Manage Data Sharing with Partners",
+      "priority": "High Priority",
+      "category": "Personal Info",
+      "description": "Control how Instagram shares your data with advertisers and partners.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Ad Settings",
+          "instruction": "Navigate to Settings > Ads.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Review Ad Topics",
+          "instruction": "See and manage ad topics you see less of.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Manage Data Sharing",
+          "instruction": "Go to 'Data about your activity from partners' and turn off to limit data sharing.",
+          "image": "step3.png"
+        }
+      ]
+    }
+  ]
+}

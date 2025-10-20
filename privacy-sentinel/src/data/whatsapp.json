@@ -1,0 +1,201 @@
+{
+  "platform": "WhatsApp",
+  "color": "#25D366",
+  "guides": [
+    {
+      "id": "wa-1",
+      "title": "Hide Last Seen & Online Status",
+      "priority": "Critical",
+      "category": "Personal Info",
+      "description": "Control who can see when you were last active on WhatsApp and your online status.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open WhatsApp Settings",
+          "instruction": "Tap on the three dots in the top-right corner and select 'Settings'.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Go to Privacy Settings",
+          "instruction": "Tap on 'Account' then select 'Privacy'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Configure Last Seen",
+          "instruction": "Tap on 'Last seen and online' and choose 'My contacts', 'My contacts except...', or 'Nobody'.",
+          "image": "step3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Hide Online Status",
+          "instruction": "Toggle off 'Who can see when I'm online' to prevent others from seeing your online status.",
+          "image": "step4.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-2",
+      "title": "Control Profile Photo Privacy",
+      "priority": "High Priority",
+      "category": "Personal Info",
+      "description": "Choose who can see your profile picture on WhatsApp.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Go to Settings > Account > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Profile Photo",
+          "instruction": "Tap on 'Profile photo' option.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Choose Visibility",
+          "instruction": "Select 'Everyone', 'My contacts', 'My contacts except...', or 'Nobody'.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-3",
+      "title": "Set Status Privacy",
+      "priority": "Important",
+      "category": "Posts & Sharing",
+      "description": "Control who can view your WhatsApp status updates.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Navigate to Settings > Account > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Configure Status Privacy",
+          "instruction": "Tap on 'Status' and choose who can see your status updates.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Customize Audience",
+          "instruction": "Select 'My contacts', 'My contacts except...', or 'Only share with...' to customize.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-4",
+      "title": "Silence Unknown Callers",
+      "priority": "High Priority",
+      "category": "Account Security",
+      "description": "Automatically silence calls from unknown numbers to reduce spam.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Go to Settings > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Enable Silence Unknown Callers",
+          "instruction": "Scroll down and toggle on 'Silence unknown callers'.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Review Settings",
+          "instruction": "Unknown calls will now go to your call list without ringing.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-5",
+      "title": "Enable Disappearing Messages",
+      "priority": "Important",
+      "category": "Messaging",
+      "description": "Set messages to automatically disappear after a specified time period.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Chat Settings",
+          "instruction": "Open any chat, tap on the contact/group name at the top.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Enable Disappearing Messages",
+          "instruction": "Tap on 'Disappearing messages' and select a duration (24 hours, 7 days, or 90 days).",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Set Default Timer",
+          "instruction": "To set for all new chats, go to Settings > Privacy > Default message timer.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-6",
+      "title": "Control Who Can Add You to Groups",
+      "priority": "High Priority",
+      "category": "Account Security",
+      "description": "Restrict who can add you to WhatsApp groups.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Open Privacy Settings",
+          "instruction": "Navigate to Settings > Account > Privacy.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Select Groups",
+          "instruction": "Tap on 'Groups' option.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Choose Restriction Level",
+          "instruction": "Select 'Everyone', 'My contacts', or 'My contacts except...' to control group invites.",
+          "image": "step3.png"
+        }
+      ]
+    },
+    {
+      "id": "wa-7",
+      "title": "Manage Live Location Sharing",
+      "priority": "Critical",
+      "category": "Personal Info",
+      "description": "Control and stop sharing your live location with contacts.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Check Active Location Sharing",
+          "instruction": "Open any chat and tap the '+' icon, then 'Location'.",
+          "image": "step1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "View Live Locations",
+          "instruction": "You'll see any active live location sharing at the top.",
+          "image": "step2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Stop Sharing",
+          "instruction": "Tap on the active location and select 'Stop sharing' to end location sharing.",
+          "image": "step3.png"
+        }
+      ]
+    }
+  ]
+}
